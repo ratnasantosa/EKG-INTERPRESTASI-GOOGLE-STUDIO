@@ -1,0 +1,6 @@
+{
+  "name": "Siskohatkes EKG Reader - KMHU 82/2026",
+  "description": "Aplikasi pembaca otomatis interpretasi foto EKG 12-lead dan penetapan Istithaah Kesehatan Haji sesuai KMHU No. 82 Tahun 2026 format resmi Siskohatkes RSUD Pesanggrahan.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
